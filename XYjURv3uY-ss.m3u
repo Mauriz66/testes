@@ -1,0 +1,10 @@
+#EXTM3U size="big"
+#EXTINF:0 type="playlist" tvg-logo="http://linux404.pro:80/images/white.png", AO VIVO
+#EXTBG:http://linux404.pro:80/images/canais.jpg
+http://linux404.pro:80/playlist.php?username=XYjURv3uY&password=t55G78&type=m3u_plus&output=ts&key=live
+#EXTINF:0 type="playlist" tvg-logo="http://linux404.pro:80/images/white.png", FILMES
+#EXTBG:http://linux404.pro:80/images/filmes.jpg
+http://linux404.pro:80/playlist.php?username=XYjURv3uY&password=t55G78&type=m3u_plus&output=ts&key=movie
+#EXTINF:0 type="playlist" tvg-logo="http://linux404.pro:80/images/white.png", SÉRIES
+#EXTBG:http://linux404.pro:80/images/seriados.jpg
+http://linux404.pro:80/ss/playlist.php?username=XYjURv3uY&password=t55G78&type=m3u_plus&output=ts&key=series
